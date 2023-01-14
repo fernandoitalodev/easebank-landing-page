@@ -59,7 +59,7 @@ Users should be able to:
 ## Author
 
 - Website - [Fernando italo](https://fernandoitalodev.github.io/personal-portifolio/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Mrprince039)
+- Frontend Mentor - [@Mrprince039](https://www.frontendmentor.io/profile/Mrprince039)
 - Linkedin - [@fernandoitalo](https://www.linkedin.com/in/fernando-italo/)
 
 
