@@ -336,7 +336,6 @@ body h2, body h3 {
     margin: 1em;
   }
   .container02 .cards-div .card .img-card {
-    width: 8%;
     height: 80px;
   }
   .container02 .cards-div .card h4 {
@@ -403,11 +402,13 @@ body h2, body h3 {
   }
   .footer .links-div .logo-and-social-medias div {
     display: flex;
-    width: 100%;
+    width: 50%;
+    margin: 1em auto;
+    justify-content: center;
   }
   .footer .links-div .logo-and-social-medias div .icon {
-    margin: 0.8em;
-    width: 10%;
+    margin: 0;
+    width: 30%;
   }
   .footer .links-div .links a {
     margin: 0.5em auto;
